@@ -27,8 +27,8 @@ The project uses **Stylelint** for style consistency and includes a basic struct
 
 ```bash
 # Clone the repository
-git clone https://github.com/IvanRyabukha/layout_landing-page.git
-cd layout_landing-page
+git clone https://github.com/IvanRyabukha/Bang-Olufsen-landingpage.git
+cd Bang-Olufsen-landingpage
 
 # Install dependencies
 npm install
