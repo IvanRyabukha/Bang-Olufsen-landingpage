@@ -1,8 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# DEMO
 
-1. Create a repo using this template
-2. Replace `<your_account>` and `<repo_name>` with your GitHub username and the new repo name
-   - [DEMO LINK](https://IvanRyabukha.github.io/Bang-Olufsen-landingpage/)
+- [DEMO LINK](https://IvanRyabukha.github.io/Bang-Olufsen-landingpage/)
 
 ---
 
